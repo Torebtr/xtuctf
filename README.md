@@ -18,7 +18,7 @@ ret2shell : `124.221.151.184:10005`
 
 ret2libc1 : ` 10006`
 
-ret2libc1 : ` 10007`
+ret2libc2 : ` 10007`
 
 ret2libc3 : ` 10008`
 
